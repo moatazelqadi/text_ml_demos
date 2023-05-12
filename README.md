@@ -19,7 +19,7 @@ Large volumes of text are a common occurrence in many disciplines. Identifying a
 *Extracting a text summary from an article using Machine learning. The user selects the desired number of sentences to represent the text. The summary is presented at the bottom of the page. The sample article is from abc.net.au.*
 
 ### Demo
-Go to https://elqadi.net/summary​, and try summarising the input text to the desired number of sentences. You can change the input text.
+Go to https://elqadi.net/summary, and try summarising the input text to the desired number of sentences. You can change the input text.
 
 ### Machine Learning Solution
 
@@ -62,7 +62,7 @@ We usually read text to find answers. The ability to get answers automatically f
 ![Answering comprehension questions with Machine Learning](public/elqadi_qna.png "Answering comprehension questions with Machine Learning")
 
 ### Demo
-Go to https://elqadi.net/QnA​ and try the following questions
+Go to https://elqadi.net/QnA and try the following questions
 * What happened on Friday?​
 * When did stocks crater?​
 * What is the unemployment rate?​
